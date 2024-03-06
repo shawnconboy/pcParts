@@ -1,10 +1,18 @@
 body {
     background-color: rgb(41, 41, 44);
     color: rgb(200, 200, 240);
+    margin: 0% 10%;
 }
 
-table {
-    color: black;
+h2 {
+  color: rgb(211, 172, 115);
+}
+
+table {  
+  color: black;
+  /* margin: 0% 10%; */
+  width: 650px;
+
 }
 
 thead,
